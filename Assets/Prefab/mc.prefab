@@ -45,6 +45,7 @@ GameObject:
   - component: {fileID: 2246854213509328075}
   - component: {fileID: 3168201867067114500}
   - component: {fileID: 248236202132290387}
+  - component: {fileID: 4793273327273570718}
   m_Layer: 0
   m_Name: try sprite las-02_1
   m_TagString: Player
@@ -209,6 +210,27 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+--- !u!95 &4793273327273570718
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1089960554182888184}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 34dc4454dec63c74cbdc4344764403ff, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &3362820432846233960
 GameObject:
   m_ObjectHideFlags: 0

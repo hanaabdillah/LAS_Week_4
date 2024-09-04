@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Pindah
   - Balik
+  - Pole
   layers:
   - Default
   - TransparentFX
@@ -42,4 +43,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: MC
+    uniqueID: 3547460955
     locked: 0

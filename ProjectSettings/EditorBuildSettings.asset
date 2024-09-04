@@ -29,4 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Append/Scene5.unity
     guid: 12401ecd77eae9b498c7d5763740034a
+  - enabled: 1
+    path: Assets/Scenes/Minigame.unity
+    guid: 0798f4de24a2823478ec083e93295b77
+  - enabled: 1
+    path: Assets/Scenes/VisualNovel.unity
+    guid: 3f39adcca1d82764fbabae3f78d79f2f
   m_configObjects: {}
