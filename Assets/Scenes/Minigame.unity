@@ -666,6 +666,7 @@ MonoBehaviour:
   strength: 6
   source: {fileID: 1218370796}
   clip: {fileID: 8300000, guid: ef4ca705ca0053b4f951be3651022d93, type: 3}
+  animator: {fileID: 1218370797}
 --- !u!212 &1218370794
 SpriteRenderer:
   m_ObjectHideFlags: 0

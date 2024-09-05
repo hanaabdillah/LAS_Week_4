@@ -28,5 +28,10 @@ public class DialogueAnimation : MonoBehaviour
             animator.SetBool("isSmiling", false);
             animator.SetBool("isFrowning", true);
         }
+        else
+        {
+            animator.SetBool("isFrowning", false);
+
+        }
     }
 }
